@@ -1,0 +1,6 @@
+print("Cadastro de Clientes")
+print("Fim")
+print("Inlcui")
+print("Altera")
+print("Exclui")
+print("Consulta")
